@@ -1,5 +1,5 @@
 {
-  "name": "@jhuggett/carto",
+  "name": "growth-map",
   "version": "1.0.0",
   "description": "",
   "main": "build/index.js",
